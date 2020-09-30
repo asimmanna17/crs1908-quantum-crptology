@@ -1,0 +1,11 @@
+Topics Covered:
+(i). Deutsch–Jozsa algorithm .( for n-input boolean function ).
+
+Assignments:
+(i).Understanding the calculations of the Deutsch-Jozsa algorithm.
+(ii).Given a boolean function f(x) = w.x, where x and w are n bits of binary string, give a classical algorithm to find w.
+
+
+
+
+Status :(ii).Please go through the file Lecture5(asg_ans).pdf
