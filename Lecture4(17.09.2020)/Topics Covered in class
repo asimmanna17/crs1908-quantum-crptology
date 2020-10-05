@@ -1,0 +1,10 @@
+Topics covered : Quantum Gates, Reversibility of boolean gates,  Deutsch–Jozsa algorithm, Implementing swap gate with CNOT gate.
+Assignments : 
+ (i) Reading :  Toffoli gate, Fredkin gate, 3-CNOT gate.
+ (ii).Implement swap gate in quantum computer using only single qubit gates (if possible).
+ (iii).Given a 2-input 1-output AND gate in classical computer, give a circuit diagram in terms of quantum gates.
+
+
+
+Status :
+          (ii) &(iii). Please go through the file Lecture4(asg_ans).pdf
